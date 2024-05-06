@@ -1,6 +1,6 @@
 # IterDepth
-The official code of IterDepth: Iterative Residual Refinement for Outdoor Self-Supervised Multi-Frame Monocular Depth Estimation
-
+This is a copy official code of IterDepth: Iterative Residual Refinement for Outdoor Self-Supervised Multi-Frame Monocular Depth Estimation
+[[Link to official code]](https://github.com/Ecalpal/IterDepth)
 
 [Cheng Feng](https://scholar.google.com/citations?hl=en&user=7DWAC44AAAAJ), Zhen Chen, Congxuan Zhang, Weiming Hu, Bing Li, and Feng Lu. – **TCSVT 2024**
 
